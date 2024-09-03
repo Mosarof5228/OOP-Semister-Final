@@ -15,6 +15,7 @@ public:
     }
 
     void WithDrawMoney(double amount)
+
     {
         balance = balance - amount;
     }
