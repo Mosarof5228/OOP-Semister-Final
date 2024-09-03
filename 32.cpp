@@ -1,5 +1,5 @@
 /*
-The new operator is used to dynamically allocate memory on the heap for an object or an array of objects. And delete operator is used to deallocate the memory. This article focuses on two very important operators :New and delete operators in C++.
+The new operator is used to dynamically allocate memory on the heap for an object or an array of objects. And delete operator is used to deallocate the memory.
 */
 
 #include <iostream>
